@@ -1,2 +1,2 @@
 # HTML-and-CSS-Projects
-HTML and CSS Projects
+This repository is for HTML and CSS Projects
