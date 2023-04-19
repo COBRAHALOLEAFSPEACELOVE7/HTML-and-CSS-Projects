@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
+<tile>Hi</title>
+<img src= "C:\Users\CKL7H\Documents\myRepository\Hi.jpg"img>
+</html>
